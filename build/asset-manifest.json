@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.aecacabc.css",
+    "main.js": "/my-react-app/static/js/main.3e564eb7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-react-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/drawers.jpg": "/my-react-app/static/media/drawers.631135b079e9f19bada8.jpg",
+    "static/media/icon-pinterest.svg": "/my-react-app/static/media/icon-pinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "index.html": "/my-react-app/index.html",
+    "static/media/icon-twitter.svg": "/my-react-app/static/media/icon-twitter.45735e3b0e1132259059ab811589d1e7.svg",
+    "static/media/icon-facebook.svg": "/my-react-app/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/icon-share-active.svg": "/my-react-app/static/media/icon-share-active.dc70267043f60ab5f9b4.svg",
+    "static/media/icon-share.svg": "/my-react-app/static/media/icon-share.890102fe1500a6fba9a7.svg",
+    "main.aecacabc.css.map": "/my-react-app/static/css/main.aecacabc.css.map",
+    "main.3e564eb7.js.map": "/my-react-app/static/js/main.3e564eb7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aecacabc.css",
+    "static/js/main.3e564eb7.js"
+  ]
+}
